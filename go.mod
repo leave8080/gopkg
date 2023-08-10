@@ -1,4 +1,4 @@
-module leave8080/gopkg
+module github.com/leave8080/gopkg
 
 go 1.20
 
